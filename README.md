@@ -4,7 +4,7 @@ Retomamos el [ejercicio de la semana 1 día 2](https://github.com/campusboream/w
 
 ![alt](images/jquery.png)
 
----
+### Reproductor de música
 
 En caso de terminar a tiempo el ejercicio, comenzar a estructurar el reproductor de música que se muestra a continuación. Encuentras el diseño en [Zeplin](https://app.zeplin.io/) y aplicarás todo lo aprendido sobre HTML 5.
 
