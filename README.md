@@ -1,4 +1,4 @@
-# Aplicando HTML5 y jQuery a la Home
+# Aplicando HTML5 y nuevas funcionalidades a la Home
 
 Retomamos el [ejercicio de la semana 1 día 2](https://github.com/campusboream/week1_day2) y aplicamos una estructura en HTML 5. Además, vamos a realizar nuestras primeras interacciones tal y como muestra la siguiente imagen:
 
