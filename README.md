@@ -51,6 +51,6 @@ En este caso las sugerencias aparecerán cuando el campo `input` toma el foco de
 
 ## Reproductor de música
 
-En caso de terminar a tiempo el ejercicio, comenzar a estructurar el reproductor de música que se muestra a continuación. Encuentras el diseño en [Zeplin](https://app.zeplin.io/) y aplicarás todo lo aprendido sobre HTML 5.
+En caso de terminar a tiempo el ejercicio, comenzar a estructurar el reproductor de música que se muestra a continuación. Encuentras el diseño en este mismo repositorio y aplicarás todo lo aprendido sobre HTML 5.
 
 ![alt](images/player.png)
